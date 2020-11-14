@@ -1,0 +1,16 @@
+{
+    "courses" : [
+        {
+            "url":"https://app.pluralsight.com/library/courses/managing-kubernetes-api-server-pods",
+            "start":1
+        },
+        {
+            "url":"https://app.pluralsight.com/library/courses/managing-kubernetes-controllers-deployments",
+            "start":1
+        },
+        {
+            "url":"https://app.pluralsight.com/library/courses/configuring-managing-kubernetes-storage-scheduling",
+            "start":1
+        }
+    ]
+}
